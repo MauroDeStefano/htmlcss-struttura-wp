@@ -17,27 +17,28 @@ body{
 }
 
 .banner, .jumbotron{
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 
 .banner{
   background-color: #E47BE4;
-  height: 100px;
+  height: 130px;
   
 }
 
 .jumbotron{
-  height: 400px;
+  height: 450px;
   background-color: #E1D67A ;
 }
 
-.container-main, .banner-main, .credits{
-  margin-bottom: 15px;
+.banner-main, .credits{
+  margin-bottom: 20px;
 }
 
 .container-main{
   height: 600px;
   background-color: #0186FD ;
+  margin-bottom: 10px;
 }
 
 .banner-main{
@@ -52,7 +53,7 @@ body{
 
 .pannel{
   float: left;
-  min-height: 82%;
+  min-height: 81%;
   min-width: 20%;
   background-color: #ABCFE7;
 }
