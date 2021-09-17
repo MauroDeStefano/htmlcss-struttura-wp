@@ -12,7 +12,7 @@
  
 body{
   width: 70%;
-  margin: 15px auto;
+  margin: 0 auto;
 
 }
 
@@ -44,7 +44,9 @@ body{
 .container-main{
   height: 600px;
   background-color: #0186FD ;
+  padding-bottom: 15px;
   margin-bottom: 10px;
+
 }
 
 .banner-main{
